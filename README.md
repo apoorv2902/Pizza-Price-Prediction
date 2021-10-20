@@ -7,4 +7,5 @@ This project is to predict the price of pizza. First I performed exploratory dat
 4. seaborn
 5. sklearn
 6. xgboost
+
 ![](Graph1.png)
